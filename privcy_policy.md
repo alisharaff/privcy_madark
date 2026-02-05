@@ -110,6 +110,4 @@ Any changes will be effective immediately upon posting inside the app or reposit
 
 # Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us:
-
-📧
+If you have any questions or concerns about this Privacy Policy, please contact us at alish3raf@gmail.com.
