@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 
 Developer / Company Name:
 Madarek Team
@@ -11,7 +11,7 @@ Mar 1, 2025
 
 Madarek values your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard information when you use the Madarek educational application.
 
-Information We Collect
+# Information We Collect
 1. Account & Login Information
 
 Madarek requires users (students and instructors) to log in using credentials such as a username, email, code, or password.
@@ -24,7 +24,7 @@ We may automatically collect non-personal technical information, including:
 
 IP address
 
-Device type and operating system
+# Device type and operating system
 
 App version
 
@@ -36,7 +36,7 @@ This data is collected for security, analytics, and app improvement purposes and
 
 3. Advertising ID & Analytics
 
-Madarek may use:
+# Madarek may use:
 
 Google Advertising ID (AAID) for analytics and performance measurement
 
@@ -46,7 +46,7 @@ The Advertising ID does not personally identify users and can be reset or disabl
 
 All analytics data is used only to improve app performance and user experience.
 
-Use of Information
+# Use of Information
 
 We use collected information to:
 
@@ -68,7 +68,7 @@ Meta (Facebook) analytics
 
 These services process data according to their own privacy policies. Madarek does not control how third parties handle user data.
 
-Cookies
+# Cookies
 
 Where applicable, Madarek may use cookies or similar technologies to:
 
@@ -78,7 +78,7 @@ Improve app functionality
 
 Cookies are used only to enhance the user experience.
 
-Data Sharing
+# Data Sharing
 
 Madarek does not sell or rent personal data to third parties.
 
@@ -88,27 +88,27 @@ To comply with legal obligations
 
 To protect user safety and platform security
 
-Data Retention
+# Data Retention
 
 We retain personal data only as long as necessary to provide the app’s services.
 Authentication data is maintained during active sessions and handled securely.
 
-#Security
+# Security
 
 We apply commercially reasonable security measures to protect user data.
 However, no digital system can guarantee absolute security.
 
-Children’s Privacy
+# Children’s Privacy
 
 Madarek is an educational platform and may be used by students.
 We do not knowingly collect personal data from children without appropriate authorization or institutional consent where required.
 
-Changes to This Privacy Policy
+# Changes to This Privacy Policy
 
 This Privacy Policy may be updated from time to time.
 Any changes will be effective immediately upon posting inside the app or repository.
 
-Contact Us
+# Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us:
 
